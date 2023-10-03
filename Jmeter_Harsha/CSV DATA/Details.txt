@@ -1,0 +1,4 @@
+Firstname,Lastname,Email,Phone,Address1,Address2,City,State,Zip,Country
+Kaarthik,S,Kaarthik123@gmail.com,9837465832,Line1,Line2,Hyderbad,TS,849930,India
+Akshatha,K,Akshatha123@gmail.com,7584756743,Line3,Line4,Hyderbad,TS,300945,India
+Ganesh,R,Ganesh123@gmail.com,9846578374,Line5,Line6,Hyderbad,TS,400596,India
